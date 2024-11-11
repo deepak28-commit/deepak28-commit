@@ -1,7 +1,4 @@
-
-
-
-
+![choong-deng-xiang--WXQm_NTK0U-unsplash](https://github.com/user-attachments/assets/1da10014-c306-4e53-b22d-014d98043902)
 - 👋 Hi, I’m @deepak28-commit
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently Working as Data Analyst
@@ -10,7 +7,8 @@
 - 😄 Pronouns: Deepak
 - ⚡ Fun fact: Everyday Activity Leads to Great Success
   
-![unnamed](https://github.com/user-attachments/assets/bc2f2106-f527-4e43-9964-d82bc073cfda)
+
+
 
 
 <!---
