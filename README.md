@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @deepak28-commit
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently Working as Data Analyst
-- 💞️ I’m looking to collaborate on Various Developers across world
 - 📫 Reach me out @deepak28usa@gmail.com
 - 😄 Pronouns: Deepak
 - ⚡ Fun fact: Everyday Activity Leads to Great Success
